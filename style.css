@@ -1,0 +1,54 @@
+body {
+    background-image: url('https://images.pexels.com/photos/5241874/pexels-photo-5241874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+}
+.mx-auto {
+    width: 1300px;
+}
+.card {
+    margin-top: 18px;
+}
+.card {
+    background-color: rgba(255, 255, 255, 0.342);
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    padding: 18px;
+}
+.label-nim { 
+    background-color: rgba(255, 255, 255, 0.346);
+    border-radius: 4px;
+    font-size: 17px;
+    font-weight: bold;
+  
+}
+.label-nama { 
+    font-size: 18px;
+    font-weight: bold;
+  
+}
+.label-alamat { 
+    font-size: 18px;
+    font-weight: bold;
+  
+}
+.label-fakultas {
+    font-size: 18px;
+    font-weight: bold;
+  
+}
+.label-tanggal_lahir {
+    font-size: 18px;
+    font-weight: bold;
+  
+}
+.label-jenis_kelamin {
+    font-size: 18px;
+    font-weight: bold;
+  
+}
+.label-email {
+    font-size: 18px;
+    font-weight: bold;
+  
+}
